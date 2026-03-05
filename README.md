@@ -5,6 +5,8 @@
 
 ## 📝 Sobre o Projeto
 
+Projeto de Inteligência de Dados desenvolvido como etapa avançada do programa Oracle Next Education (Alura + Oracle). Este trabalho expande o ciclo de dados iniciado com ETL e EDA, consolidando um pipeline completo de Machine Learning. Através da implementação de modelos de Regressão Logística e Random Forest, o projeto foca na predição proativa de evasão, permitindo a identificação de clientes de alto risco e a formulação de estratégias de retenção baseadas na importância das variáveis e na interpretabilidade de algoritmos.
+
 Este projeto foi desenvolvido para a **Telecom X** com o objetivo de reduzir a taxa de evasão de clientes (Churn). Utilizando técnicas de Machine Learning, criamos um sistema capaz de identificar clientes com alta probabilidade de cancelamento, permitindo ações preventivas de retenção.
 
 ## 🧠 Modelagem e Metodologia
